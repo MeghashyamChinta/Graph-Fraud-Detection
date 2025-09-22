@@ -1,0 +1,6 @@
+streamlit
+neo4j
+scikit-learn
+pyvis
+pandas
+openai
